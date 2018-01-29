@@ -1,3 +1,5 @@
-body {
-  background-color: light blue;
+div
+{
+ border-radius: 5px;
+  border-color: light-blue;
 }
