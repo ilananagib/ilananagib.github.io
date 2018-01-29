@@ -1,9 +1,6 @@
-div {
-border-radius: 5px
-background: light blue;
-}
-Header {
-  height:50px;
-  width:400px;
-  border: 1px solid blue;
+Body {
+  font-family: Calibri,
+    height: 100%
+    margin: auto;
+  width: 100%
 }
