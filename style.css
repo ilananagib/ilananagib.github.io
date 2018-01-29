@@ -3,3 +3,9 @@ div
  border-radius: 5px;
   border-color: light-blue;
 }
+#header
+{
+ height: 40px;
+ width: 95%;
+ background-color: light yellow;
+}
