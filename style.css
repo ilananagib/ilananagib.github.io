@@ -15,8 +15,9 @@ h2 {
 }
 
 .left {
-	padding: 50px;
-	border: 1px solid maroon;
+	padding: 20px;
+	border: 1px solid;
+	margin-color: #800000;
     	margin-top: 100px;
     	margin-bottom: 100px;
     	margin-right: 150px;
