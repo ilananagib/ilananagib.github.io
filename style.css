@@ -1,7 +1,8 @@
 
 body {
 	height: 100%;
-	margin: 0;
+	margin: 1px solid;
+	margin-color: #Maroon;
 	text-align: left;
 	width: 100%;
 	background-color: #FFE4E1;
