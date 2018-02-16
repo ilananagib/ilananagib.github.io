@@ -13,14 +13,14 @@ h2 {
 	font-size: 30px;
 	color: #000080; 
 }
-.header {
-	padding: 100px;
-	margin: 30px;
-}
 
 .left {
 	padding: 50px;
 	margin: 50px;
+}
+.footer {
+	padding: 50px;
+	margin: 30px;
 }
 
 
