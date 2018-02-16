@@ -5,6 +5,7 @@ body {
 	width: 100%;
 	background-color: #FFFFFF;
 	font-family: "Times"; 
+	list-style-type: circle;
 }
 h1 {
 	font-size: 32px;
