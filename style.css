@@ -7,9 +7,15 @@ body {
 	font-family: "Times"; 
 	color: #696969; 
 }
+
+ul.a {
+	list-style-type: circle;
+}
+
 h1 {
 	font-size: 32px;
 }
+
 h2 {
 	font-size: 30px;
 	color: #696969; 
@@ -24,10 +30,7 @@ h2 {
     	margin-right: 150px;
     	margin-left: 80px;
     	background-color: #FFFFFF;
-}
-ul.a {
-	list-style-type: circle;
-}
+
 
 
 
