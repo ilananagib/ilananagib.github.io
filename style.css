@@ -4,6 +4,7 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
+	background-color: #DCDCDC;
 }
 h1 {
 	font-size: 32px;
@@ -18,9 +19,7 @@ h2 {
 	padding: 50px;
 	margin: 50px;
 }
-body {
-	background-color: #E0FFFF;
-} 
+
 
 
 
