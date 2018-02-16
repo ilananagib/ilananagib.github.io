@@ -1,12 +1,6 @@
 
 body {
 	height: 100%;
-	margin: 1px solid;
-	margin-color: #800000;
-	margin-top: 100px;
-    	margin-bottom: 100px;
-    	margin-right: 150px;
-    	margin-left: 80px;
 	text-align: left;
 	width: 100%;
 	background-color: #FFE4E1;
@@ -22,7 +16,12 @@ h2 {
 
 .left {
 	padding: 50px;
-	margin: 50px;
+	border: 1px solid maroon;
+    	margin-top: 100px;
+    	margin-bottom: 100px;
+    	margin-right: 150px;
+    	margin-left: 80px;
+    	background-color: #FFE4E1;
 }
 
 
