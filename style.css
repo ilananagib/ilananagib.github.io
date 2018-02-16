@@ -4,7 +4,6 @@ body {
 	text-align: left;
 	width: 100%;
 	background-color: #FFFFFF;
-	font-color: #696969; 
 }
 
 ul.a {
@@ -16,8 +15,7 @@ h1 {
 }
 
 h2 {
-	font-size: 30px;
-	color: #696969; 
+	font-size: 30px; 
 }
 
 .left {
