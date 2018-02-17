@@ -8,9 +8,6 @@ body {
 img {
 	padding: 3px;
 	border: 10px solid #FFFFFF;
-	border-left:4px dotted #LightGrey;
-	border-right:4px dotted #LightGrey;
-	
 }
 
 h1 {
