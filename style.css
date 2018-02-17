@@ -21,7 +21,7 @@ h2 {
 hr {
 	display: block;
 	height: 1px;
-	border-top: 1px solid #Black;
+	border-top: 1px solid #000000;
 }
 
 .left {
